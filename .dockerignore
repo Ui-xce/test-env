@@ -2,6 +2,6 @@
 Dockerfile
 __pycache__
 .git
-.github
+.github/
 
 
